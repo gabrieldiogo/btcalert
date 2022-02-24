@@ -1,1 +1,1 @@
-# btcalert
+# btc-alert
